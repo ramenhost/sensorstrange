@@ -1,0 +1,3 @@
+[submodule "client-android"]
+	path = client-android
+	url = https://github.com/realramkumar/sensorstrange-android
